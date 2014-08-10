@@ -34,6 +34,15 @@
 	<script type="text/javascript" src="js/saiku/plugins/HotKeys/plugin.js" defer></script>
 	```
 	> look for ***Saiku plugins*** comment in index.html.
+	
+## Hotkeys
+
+Event Types | Key combination |
+---         | ---             |
+New Query   | `Alt+n`         |
+Refresh     | `Alt+r`         |
+Open Query  | `Alt+o`         |
+Save Query  | `Alt+s`         |
 
 ## Contributing
 
