@@ -1,6 +1,6 @@
 # Saiku Hotkeys [![Build Status](https://travis-ci.org/brenopolanski/saiku-hotkeys.svg?branch=master)](https://travis-ci.org/brenopolanski/saiku-hotkeys)
 
-### Hotkeys for Saiku UI.
+### Hotkeys for Saiku UI
 
 > In computing, a keyboard shortcut is a series of one or several keys that invoke a software or operating system operation (in other words, cause an event) when triggered by the user.
 >
