@@ -70,4 +70,4 @@ I gratefully acknowledge the following open source project:
 
 ## License
 
-[MIT License](http://brenopolanski.mit-license.org/) © Breno Polanski
+[MIT License](https://brenopolanski.mit-license.org/) © Breno Polanski
